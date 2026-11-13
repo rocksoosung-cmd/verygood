@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://creditcard-guide.vercel.app/</loc>
+    <loc>https://참조은티켓.com/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://creditcard-guide.vercel.app/limit-guide</loc>
+    <loc>https://참조은티켓.com/limit-guide</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://creditcard-guide.vercel.app/fee-report</loc>
+    <loc>https://참조은티켓.com/fee-report</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://creditcard-guide.vercel.app/privacy-check</loc>
+    <loc>https://참조은티켓.com/privacy-check</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://creditcard-guide.vercel.app/warning-signs</loc>
+    <loc>https://참조은티켓.com/warning-signs</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://creditcard-guide.vercel.app/process</loc>
+    <loc>https://참조은티켓.com/process</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://creditcard-guide.vercel.app/faq</loc>
+    <loc>https://참조은티켓.com/faq</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
